@@ -1,3 +1,4 @@
+# GPT
 # A Simplified GPT Implementation
 
 A cleaned up the implementation of GPT model based on Karpathy's lectures.
